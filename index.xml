@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Trinami</title><link>https://trinami.org/</link><description>Recent content on Trinami</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://trinami.org/index.xml" rel="self" type="application/rss+xml"/><item><title>contact</title><link>https://trinami.org/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://trinami.org/contact/</guid><description>&lt;h3 id="contact">Contact&lt;/h3>
+&lt;hr>
+&lt;section>
+ &lt;fieldset>
+ &lt;select id="reason">
+ &lt;option value="">Select reason...&lt;/option>
+ &lt;option value="join">Join request&lt;/option>
+ &lt;option value="other">Other&lt;/option>
+ &lt;/select>
+ &lt;textarea placeholder="Your message..." maxlength="1000" id="message">&lt;/textarea>
+ &lt;label>
+ &lt;input type="checkbox" id="imnotarobot">
+ I'm not a robot
+ &lt;/label>
+ &lt;button type="submit" id="encryptButton">Send&lt;/button>
+ &lt;/fieldset>
+&lt;/section></description></item><item><title>projects</title><link>https://trinami.org/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://trinami.org/projects/</guid><description>&lt;h3 id="projects">Projects:&lt;/h3>
+&lt;hr>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Name&lt;/th>
+ &lt;th style="text-align: center">Concept Documented&lt;/th>
+ &lt;th style="text-align: center">Programmed/Built&lt;/th>
+ &lt;th style="text-align: left">Project Purpose&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Triairgap&lt;/td>
+ &lt;td style="text-align: center">❌&lt;/td>
+ &lt;td style="text-align: center">✅&lt;/td>
+ &lt;td style="text-align: left">Secure, air-gapped system that produces no metadata about what you&amp;rsquo;re working on, tamper-proof to produce secure firmware with verified compilers&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Tritamper&lt;/td>
+ &lt;td style="text-align: center">❌&lt;/td>
+ &lt;td style="text-align: center">❌&lt;/td>
+ &lt;td style="text-align: left">Bulletproof tamper detection&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Tribridge&lt;/td>
+ &lt;td style="text-align: center">❌&lt;/td>
+ &lt;td style="text-align: center">❌&lt;/td>
+ &lt;td style="text-align: left">Secure online-to-offline device bridge (minimal I2C with physical verifiability)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;a href="https://github.com/trinami/xrng">TriXRNG&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">❌&lt;/td>
+ &lt;td style="text-align: center">✅&lt;/td>
+ &lt;td style="text-align: left">Random Number Generator, CSPRNG combined with Von Neumann ADC extraction&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;a href="https://github.com/trinami/tricrypt-cli">Tricrypt&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">✅&lt;/td>
+ &lt;td style="text-align: center">✅&lt;/td>
+ &lt;td style="text-align: left">Rust stacked cryptos&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Tricommunicator&lt;/td>
+ &lt;td style="text-align: center">❌&lt;/td>
+ &lt;td style="text-align: center">❌&lt;/td>
+ &lt;td style="text-align: left">Encrypted and secure communication device&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Tricontact&lt;/td>
+ &lt;td style="text-align: center">❌&lt;/td>
+ &lt;td style="text-align: center">❌&lt;/td>
+ &lt;td style="text-align: left">JS stacked PQ and asymmetric cryptos to leave message over website&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Trinonymous&lt;/td>
+ &lt;td style="text-align: center">❌&lt;/td>
+ &lt;td style="text-align: center">❌&lt;/td>
+ &lt;td style="text-align: left">A completly anonymous use of the internet&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Tristeg&lt;/td>
+ &lt;td style="text-align: center">❌&lt;/td>
+ &lt;td style="text-align: center">❌&lt;/td>
+ &lt;td style="text-align: left">a 99 percent bulletproof Steganography&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Triannounce&lt;/td>
+ &lt;td style="text-align: center">❌&lt;/td>
+ &lt;td style="text-align: center">❌&lt;/td>
+ &lt;td style="text-align: left">announce undeleteable, uncensorable messages to public&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item></channel></rss>
