@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Trinami</title><link>https://trinami.org/</link><description>Recent content on Trinami</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://trinami.org/index.xml" rel="self" type="application/rss+xml"/><item><title>contact</title><link>https://trinami.org/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://trinami.org/contact/</guid><description>&lt;h3 id="contact">Contact&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Trinami</title><link>https://github.trinami.io/</link><description>Recent content on Trinami</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://github.trinami.io/index.xml" rel="self" type="application/rss+xml"/><item><title>contact</title><link>https://github.trinami.io/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://github.trinami.io/contact/</guid><description>&lt;h3 id="contact">Contact&lt;/h3>
 &lt;hr>
 &lt;section>
  &lt;fieldset>
@@ -14,7 +14,7 @@
  &lt;/label>
  &lt;button type="submit" id="encryptButton">Send&lt;/button>
  &lt;/fieldset>
-&lt;/section></description></item><item><title>projects</title><link>https://trinami.org/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://trinami.org/projects/</guid><description>&lt;h3 id="projects">Projects:&lt;/h3>
+&lt;/section></description></item><item><title>projects</title><link>https://github.trinami.io/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://github.trinami.io/projects/</guid><description>&lt;h3 id="projects">Projects:&lt;/h3>
 &lt;hr>
 &lt;table>
  &lt;thead>

@@ -1,5 +1,5 @@
 (() => {
-  // ns-hugo-imp:/home/user/git2/trinami.github.io/assets/rust_app/pkg/rust_app.js
+  // ns-hugo-imp:/home/user/git2/trinami.org/assets/rust_app/pkg/rust_app.js
   var import_meta = {};
   var wasm;
   var cachedUint8ArrayMemory0 = null;
